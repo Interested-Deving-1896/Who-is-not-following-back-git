@@ -1,4 +1,4 @@
-# GitHub Follower Manager CLI
+# Who-is-not-following-back - GitHub Follower Manager CLI
 
 A lightweight command-line tool to manage your GitHub followers and following — intelligently.  
 Auto-follow users who are likely to follow back, bulk unfollow those who won't, and keep full control over your network.
