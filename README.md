@@ -1,4 +1,4 @@
-# Who-is-not-following-back - GitHub Follower Manager CLI
+# git-follow-booster - GitHub Follower Manager CLI
 
 A lightweight command-line tool to manage your GitHub followers and following — intelligently.  
 Auto-follow users who are likely to follow back, bulk unfollow those who won't, and keep full control over your network.
@@ -17,8 +17,8 @@ Auto-follow users who are likely to follow back, bulk unfollow those who won't, 
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/Sahil002620Q/Who-is-not-following-back-git
-cd Who-is-not-following-back-git
+git clone https://github.com/Sahil002620Q/git-follow-booster.git
+cd git-follow-booster 
 
 # 2. Create and activate a virtual environment
 python -m venv venv
