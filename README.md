@@ -33,7 +33,7 @@ source venv/bin/activate
 pip install -r requirements.txt
 
 # 4. Run the tool
-python main.py
+python script.py
 ```
 
 > **Note:** On first launch, use **Option 5 → Setup Account & Token** to configure your username and GitHub token. The tool will guide you through every step.
